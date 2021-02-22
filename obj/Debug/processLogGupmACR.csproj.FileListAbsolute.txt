@@ -1,0 +1,9 @@
+C:\Datos\esb\code\processLogGupmACR\bin\Debug\processLogGupmACR.exe.config
+C:\Datos\esb\code\processLogGupmACR\bin\Debug\processLogGupmACR.exe
+C:\Datos\esb\code\processLogGupmACR\bin\Debug\processLogGupmACR.pdb
+C:\Datos\esb\code\processLogGupmACR\obj\Debug\processLogGupmACR.csprojResolveAssemblyReference.cache
+C:\Datos\esb\code\processLogGupmACR\obj\Debug\processLogGupmACR.exe
+C:\Datos\esb\code\processLogGupmACR\obj\Debug\processLogGupmACR.pdb
+C:\Datos\gitRepo\processLogGupmACR\bin\Debug\processLogGupmACR.exe.config
+C:\Datos\gitRepo\processLogGupmACR\obj\Debug\processLogGupmACR.exe
+C:\Datos\gitRepo\processLogGupmACR\obj\Debug\processLogGupmACR.pdb

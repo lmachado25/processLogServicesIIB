@@ -1,0 +1,4 @@
+C:\Datos\gitRepo\processLogServicesIIB\bin\Debug\processLogGupmACR.exe.config
+C:\Datos\gitRepo\processLogServicesIIB\obj\Debug\processLogGupmACR.exe
+C:\Datos\gitRepo\processLogServicesIIB\obj\Debug\processLogGupmACR.pdb
+C:\Datos\gitRepo\processLogServicesIIB\bin\Debug\processLogServicesIIB.exe.config
